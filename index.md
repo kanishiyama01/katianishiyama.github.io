@@ -1,22 +1,34 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome
 
-I am a Professor of Economics at Mackenzie and FGV.
+## Katia Aiko Nishiyama Alves
 
-I am interested in . 
+I am a Professor of Economics at Mackenzie University and Fundação Getulio Vargas (EPGE).
 
-Feel free to contact me.
+My research interests include family economics, matching markets, microeconomic theory, and public policy evaluation.
 
-Email: katia.nishiyama@mackezie.br or katia.nishiyama@fgv.br
+## Contact
 
-<hr>
+<strong>Mackenzie University</strong>  
+<i class="fa fa-envelope"></i> 
+<a href="mailto:katia.nishiyama@mackenzie.br">katia.nishiyama@mackenzie.br</a>
 
-## Publications
+<br>
 
-<h3><a href="https://www.pnas.org/doi/10.1073/pnas.2312451120"> Estimating the Spatial Amplification of Damage Caused by Degradation in the Amazon</a></h3>
-with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://econ.columbia.edu/econpeople/jose-scheinkman/">José A. Scheinkman</a> and <a href="https://ipes.ufsc.br/en/team/marina-hirota-2/">Marina Hirota</a><br>
-*Proceedings of the National Academy of Sciences.* <a href="https://www.nber.org/papers/w31550">Preprint</a>
+<strong>Fundação Getulio Vargas (EPGE)</strong>  
+<i class="fa fa-envelope"></i> 
+<a href="mailto:katia.nishiyama@fgv.br">katia.nishiyama@fgv.br</a>
 
-## Working papers
+<br><br>
 
-## Policy
+<i class="fa fa-graduation-cap"></i> 
+<a href="https://lattes.cnpq.br/7488932113303189" target="_blank">Lattes</a>
 
+<br>
+
+<i class="fa fa-linkedin-square"></i> 
+<a href="https://www.linkedin.com/in/katia-aiko-nishiyama-alves-b1583472/" target="_blank">LinkedIn</a>
