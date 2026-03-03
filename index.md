@@ -2,7 +2,7 @@
 
 I am a Professor of Economics at Mackenzie and FGV.
 
-I hold a PhD in Economics from FGV EPGE.  with experience in teaching, microeconomic theory, and public policy evaluation. Research interests include matching markets, education and family economics.
+I am interested in . 
 
 Feel free to contact me.
 
